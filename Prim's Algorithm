@@ -1,3 +1,5 @@
+//Prim's Algorithm
+//Java Code
 import java.util.Scanner;
 
 public class prims {
